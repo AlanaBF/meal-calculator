@@ -1,0 +1,78 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+ 
+}
+
+.page-background {
+   background-color: #82c0cc !important;
+  color: #16697a !important;
+  align-items: center;
+}
+
+.container {
+  text-align: center;
+  padding-top: 100px;
+  height: 87vh;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 3em !important;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+  margin: 0 auto;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+input {
+  padding: 8px;
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 8px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.result {
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.bi-piggy-bank {
+ color: #ffa62b !important;
+  font-size: 2em !important;
+}
+
+.navbar, .navbar-brand {
+  background-color: #16697a !important;
+  color: #ede7e3 !important;
+  padding: 10px;
+}
+
+.bi-hearts {
+  color: #c71f37 !important;
+   font-size: 2em !important;
+ }
+
+ .footer {
+  background-color: #16697a !important;
+  color: #ede7e3 !important;
+text-align: center;
+ }
